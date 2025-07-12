@@ -20,7 +20,7 @@ This project implements a machine learning pipeline to detect deep fake audio us
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/deep-fake-audio-detection.git
+   git clone https://github.com/fares-mady/deep-fake-audio-detection.git
    cd deep-fake-audio-detection
    ```
 2. Install the required packages:
